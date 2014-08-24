@@ -1,6 +1,6 @@
 ---
 title: Assignment Write up - "Human activity prediction - Under 5 levels(A,B,C,D,E)"
-output: html_document
+output: html document
 ---
 
 The aim of this work is to fit a Model, which captures the way the persons are doing weight lifting exercise. The developed Model has to predict the class category (A, B, C, D, or E) of the person, provided the various wearable sensors data. I sincerely thank the concern persons involved in the project [1] for provided me the data to do my assignment.
