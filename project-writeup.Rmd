@@ -84,6 +84,7 @@ The following are the classe predictions of the given testing data.
 predictions
 ```
 
+
 These are the predicted values for which the original (actual) output is not given in the file. But when i submit the answers i got 20/20. So i guess my model is working fine. 
 
 Summary:
